@@ -17,5 +17,6 @@ This Google Sheets document will get financial ratios from any of the selected s
   - Sign up to https://financialmodelingprep.com/, to get your own API key.
   - Go to the spreasheet, go to 'Tools' > 'Script editor'. 
   - Go to line 6 of the code, replace example text with your api key, click save.
-  - Go back to the spreadsheet, select a stock, click the 'Get Data' button.
-  - Go to the 'Results' sheet to view the financial ratios data.
+  - Go back to the spreadsheet, select a stock.
+  - Click the 'Get Data' button. If a box appears retuesting authorisation, click continue, choose an email address, click advanced, click 'Go to Stock Financial Ratios API Test (unsafe)' - click Allow
+  - Go to the 'Results' sheet to view the financial ratios data. The 'Results' sheet is populated with the most recent financial ratios data at the time of publishing.
