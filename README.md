@@ -3,7 +3,7 @@
 # What does it do?
 This Google Sheets document will get financial ratios from any of the selected stocks, using the company's latest earnings reports, using an API by https://financialmodelingprep.com.
 
-**[Get the document click here!](https://docs.google.com/spreadsheets/d/1XbnR1eMwL8GrK2sVju9gHm6-F3ycV-Kh5F3YYY12RuQ/edit?usp=sharing)** 
+**[Get the document here!](https://docs.google.com/spreadsheets/d/1XbnR1eMwL8GrK2sVju9gHm6-F3ycV-Kh5F3YYY12RuQ/edit?usp=sharing)** 
 
 **To use all the features of this document a google account is required.*
   
