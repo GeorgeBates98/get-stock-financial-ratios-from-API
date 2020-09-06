@@ -1,4 +1,4 @@
-# get_stock_financial_ratios_from_API
+# get-stock-financial-ratios-from-API
 
 # What does it do?
 This Google Sheets document will get financial ratios from any of the selected stocks, using the company's latest earnings reports, using an API by https://financialmodelingprep.com.
